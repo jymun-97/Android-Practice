@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/mjy07/Desktop/GitHub/Android Develop/Practice/CleanArchitecture_Practice/app/src/main/res/layout/activity_main.xml" value="0.3351851851851852" />
+        <entry key="..\:/Users/mjy07/Desktop/GitHub/Android Develop/Practice/CleanArchitecture_Practice/app/src/main/res/layout/fragment_favorite.xml" value="0.33" />
+        <entry key="..\:/Users/mjy07/Desktop/GitHub/Android Develop/Practice/CleanArchitecture_Practice/app/src/main/res/layout/fragment_search.xml" value="0.33" />
+        <entry key="..\:/Users/mjy07/Desktop/GitHub/Android Develop/Practice/CleanArchitecture_Practice/app/src/main/res/layout/fragment_settings.xml" value="0.33" />
+        <entry key="..\:/Users/mjy07/Desktop/GitHub/Android Develop/Practice/CleanArchitecture_Practice/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.23425925925925925" />
       </map>
     </option>
   </component>
