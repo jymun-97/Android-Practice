@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Alarm</string>
+    <string name="alarm_off">알람이 꺼져 있습니다.</string>
+</resources>
